@@ -7,7 +7,7 @@
  *
  * Returen 0 [sucess]
  */
-int _putchar();
+int _putchar(void);
 int main(void)
 {
 	_putchar('_');
