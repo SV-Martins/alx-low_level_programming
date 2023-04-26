@@ -1,13 +1,13 @@
 #include "main.h"
 
 /**
- * main- prints _putchar
+ * main - prints _putchar
  * 
- * function declaration- _putchar
+ * function declaration - _putchar
  *
  * Returen 0 [sucess]
  */
-int _putchar(void);
+int _putchar();
 int main(void)
 {
 	_putchar('_');
