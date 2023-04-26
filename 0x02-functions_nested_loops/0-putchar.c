@@ -2,6 +2,8 @@
 
 /**
  * main- prints _putchar
+ * 
+ * function declaration- _putchar
  *
  * Returen 0 [sucess]
  */
