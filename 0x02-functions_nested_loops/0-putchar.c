@@ -5,7 +5,7 @@
  *
  * Returen 0 [sucess]
  */
-
+int _putchar();
 int main(void)
 {
 	_putchar('_');
