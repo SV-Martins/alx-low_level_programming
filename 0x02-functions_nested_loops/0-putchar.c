@@ -1,5 +1,5 @@
 #include "main.h"
-#include "_putchar"
+#include "0-putchar"
 
 /**
  * main- prints _putchar
@@ -9,7 +9,6 @@
 
 int main(void)
 {
-
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
